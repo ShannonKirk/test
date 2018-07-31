@@ -4,13 +4,7 @@ using UnityEngine;
 
 public class Script1 : MonoBehaviour {
 
-	// Use this for initialization
-	void Start () {
-		
-	}
+	//Test Change
+
 	
-	// Update is called once per frame
-	void Update () {
-		
-	}
 }
